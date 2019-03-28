@@ -6,3 +6,5 @@ Dhwani is an open project made for the community, by the community itself with l
 * Translators and Training data
 * As a user by giving us your valuable feedback on the project
 * 
+
+Referenced from contributing guidelines of Grub Boot loader.
