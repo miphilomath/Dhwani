@@ -5,6 +5,7 @@ Major Tasks:
 	- Audio Recorder and Speaker interface using [PortAudio](http://www.portaudio.com/)
 	- STT and TTS speech engine
 		* Julius
+		* PocketSphinx
 		* Google Cloud Speech
 		* Wit.ai
 		* Houndify
@@ -19,6 +20,7 @@ Major Tasks:
 2. Setup script that will do:
 	- Server setup
 	- App support
+	- Website Interface for demo, documentation and users
 	- 
 	
 3. Configuration script that will:
@@ -34,10 +36,21 @@ Major Tasks:
 
 
 # NLP task
+- Convert Voice to Text string
+- Tokenize Text
+- Filter the intent of the sentence and categorise it as:
+    - Action statement, commands
+    - Compound statements, i.e. multiple commands
+    - 
+    - 
+
 
 # Sounder/Intent analyzer
 
 # Infrastructure
+- Port management for the secure transmission
+- Offline working
+- API support
 
 Task to do:
 ===========
