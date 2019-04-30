@@ -1,4 +1,3 @@
-<!--- MOZFEST PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
 Dhwani respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, mentors, experts, staff, volunteers, and anyone else involved in making Project Dhwani possible.
@@ -21,8 +20,6 @@ We welcome contributions from everyone as long as they interact constructively w
 
 ## Raising Issues
 
-If you believe you‘re experiencing practices which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact the current Project maintainer, Philomath or speak up in the community channels.
+If you believe you‘re experiencing practices which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact the current Project maintainer, Mohit Bansal (@miphilomath) or speak up in the community channels.
 
 Community around the Project Dhwani reserves the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the program.
-Email: leadopen@mozillafoundation.org
-<!--- END MOZFEST PARTICIPATION GUIDLINES --->
